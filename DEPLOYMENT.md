@@ -107,13 +107,3 @@ railway variables set ENVIRONMENT=production
 railway up
 railway domain
 ```
-
-## Screenshots
-
-Add the required submission screenshots here:
-
-- Deployment dashboard: `screenshots/dashboard.png`
-- Service running / public health check: `screenshots/health.png`
-- Authenticated API test result: `screenshots/api-test.png`
-
-These screenshots should show the Railway service online and the public URL responding successfully.
